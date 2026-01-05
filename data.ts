@@ -13,11 +13,11 @@ export const personalProjects: Project[] = [
   },
   {
     id: 2,
-    title: "Data Viz Dashboard",
-    description: "Interactive dashboard visualizing complex sales data using D3.js and React. Allows filtering by region, date, and product category.",
+    title: "Task Manager",
+    description: "A simple and interactive React Task Manager app built with hooks, allowing users to add, complete, delete, and filter tasks with persistence using localStorage.",
     image: "https://raw.githubusercontent.com/shittuadams/task-manager/main/screenshots/task-manager.png",
-    tags: ["Power BI", "SQL", "Excel", "D3.js"],
-    category: 'data',
+    tags: ["React", "UseEffect", "CSS", "JavaScript" ],
+    category: 'web',
     details: "https://github.com/shittuadams/task-manager#readme",
     link: "https://shittuadams.github.io/task-manager/"
   },
